@@ -1,8 +1,4 @@
 Esta es la historia de mi trabajo
 ahora voy a realizar algunos cambios
 en este archivo.
-Mi  edad es 40
-Estoy feliz aprendiendo
-Git y Aws
-Oracle
-SpringBoot
+Mi  edad es 49
